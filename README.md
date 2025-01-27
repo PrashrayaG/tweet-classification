@@ -34,5 +34,5 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository or download the file**
 
    ```bash
-   git clone https://github.com/yourusername/tweet-classification.git
+   git clone [https://github.com/yourusername/tweet-classification.git](https://github.com/PrashrayaG/tweet-classification.git)
    cd tweet-classification
